@@ -14,6 +14,12 @@ const App = () => {
   return (
     <div className="App">
       {/* Add imported components here to render them */}
+
+      {/**SEARCH BAR COMPONENT */}
+
+      {/**POSTCONTAINER (POST) COMPONENT
+       * EACH POST HAS A SEPARATE CONTAINER W/ COMMENT SECTION
+       */}
     </div>
   );
 };
